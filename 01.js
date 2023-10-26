@@ -6,3 +6,4 @@ let objprueba = miJson;
 console.log(objprueba);
 const miObjeto = JSON.parse(objprueba);
 //console.log(miObjeto.saludo);
+//comentario introducido en local
